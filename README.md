@@ -36,8 +36,15 @@ The theme chosen is **Toyota Fortuner SUV**, showcasing its features and gallery
 ---
 
 ## 🌐 Live Demo
-[Click here to view the project](https://your-username.github.io/SCT_WD_1/)  
+[Click here to view the project](https://abhi-task1-landingpage.netlify.app/)  
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## ✨ Author
+**Abhishek Kumar**  
+📧 Email: abhishekk94473@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-50088525b)  
+
