@@ -33,16 +33,6 @@ The theme chosen is **Toyota Fortuner SUV**, showcasing its features and gallery
 
 ---
 
-## 📸 Screenshots
-### Home Page
-![Home](images/fortuner-home.jpg)  
-
-### Features Section
-![Features](images/fortuner-feature1.jpg)  
-
-### Gallery Section
-![Gallery](images/fortuner-gallery1.jpg)  
-
 ---
 
 ## 🌐 Live Demo
