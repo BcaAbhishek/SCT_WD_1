@@ -29,7 +29,7 @@ The theme chosen is **Toyota Fortuner SUV**, showcasing its features and gallery
 ## 🛠️ Tech Stack
 - **HTML5**  
 - **CSS3 (Flexbox & Media Queries)**  
-- **JavaScript (scroll & menu interactions)**  
+  
 
 ---
 
